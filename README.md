@@ -1,4 +1,3 @@
-username=aman and 
-pwd=1234
+This is my college project in python. For LNCT University.
 it is totally based on python gui (tkinter).....
 After downloading all files firstly run w1.py file
